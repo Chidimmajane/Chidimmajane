@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logocolor=white)](https:replit.com/@Nnanwunochidimm/welcom-page#index.html)
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnanwuno-chidimma-0b09a5235)
+
+[![twitter](https://img.shields.io/badge/twitter-1DAF2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beautynmanova)
+
