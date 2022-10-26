@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 [![twitter](https://img.shields.io/badge/twitter-1DAF2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beautynmanova)
 
-##skills
+## skills
+
 javasript,HTML,CSS and figma
 
-##lesson learned
+##  lesson learned  
+
 was able to learn how to create repository and branches in github had difficulty in pushing my replit work to github repo required branch but was able to use extraction method to overcoe the challenge
